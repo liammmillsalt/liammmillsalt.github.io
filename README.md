@@ -1,1 +1,1 @@
-# Liam Mills - [MTC, Front end developer test](https://github.com/liammmills/mtc--front-end-developer-test)
+# Liam Mills - [mtc, Front end developer test](https://github.com/liammmills/mtc--front-end-developer-test)
